@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1cdf0ac-d154-46c9-918b-7dd9991205e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/bin/gradle.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/dsl-standalone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.Buildable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.NamedDomainObjectContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.Task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.artifacts.ComponentSelection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.artifacts.ConfigurationContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.artifacts.DependencySubstitutions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.artifacts.dsl.ArtifactHandler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.artifacts.dsl.RepositoryHandler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.artifacts.repositories.ArtifactRepository.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.artifacts.repositories.AuthenticationSupported.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.artifacts.repositories.MavenArtifactRepository.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.credentials.HttpHeaderCredentials.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.file.SourceDirectorySet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.plugins.JavaApplication.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.plugins.MavenPluginConvention.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.plugins.MavenRepositoryHandlerConvention.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.plugins.PluginManager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.plugins.antlr.AntlrSourceVirtualDirectory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.plugins.antlr.AntlrTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.plugins.osgi.OsgiPluginConvention.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.plugins.quality.CodeNarcExtension.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.plugins.quality.FindBugs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.plugins.quality.JDepend.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.plugins.quality.PmdExtension.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.PublishingExtension.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.ivy.IvyArtifactSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.ivy.IvyModuleDescriptorAuthor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.ivy.IvyPublication.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.maven.MavenArtifact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.maven.MavenPomContributor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.maven.MavenPomContributorSpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.maven.MavenPomDeveloper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.maven.MavenPomDeveloperSpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.maven.MavenPomMailingListSpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.maven.MavenPomOrganization.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.maven.MavenPomRelocation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.maven.MavenPublication.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.maven.tasks.AbstractPublishToMaven.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.publish.maven.tasks.PublishToMavenRepository.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.reporting.Report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.reporting.SingleFileReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.resources.ResourceHandler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.resources.TextResource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.GradleBuild.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.GroovySourceSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.JavaExec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.SourceTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.Upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.bundling.AbstractArchiveTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.bundling.War.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.compile.AbstractOptions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.compile.CompileOptions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.diagnostics.AbstractReportTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.diagnostics.BuildEnvironmentReportTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.diagnostics.DependencyReportTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.diagnostics.PropertyReportTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.scala.ScalaDoc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.testing.Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.testing.logging.TestLoggingContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.api.tasks.wrapper.Wrapper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.authentication.Authentication.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.authentication.http.DigestAuthentication.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.caching.configuration.AbstractBuildCache.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.caching.configuration.BuildCacheConfiguration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.caching.local.DirectoryBuildCache.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.ide.visualstudio.VisualStudioProject.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.ide.visualstudio.VisualStudioSolution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.jvm.toolchain.JavaToolChain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.language.assembler.AssemblerSourceSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.language.assembler.tasks.Assemble.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.language.base.LanguageSourceSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.language.c.CSourceSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.language.coffeescript.CoffeeScriptSourceSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.language.cpp.CppSourceSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.language.javascript.JavaScriptSourceSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.language.nativeplatform.DependentSourceSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.language.nativeplatform.tasks.AbstractNativeCompileTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.language.objectivecpp.tasks.ObjectiveCppCompile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.language.scala.tasks.AbstractScalaCompile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.language.twirl.TwirlSourceSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.model.ModelElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.nativeplatform.Flavor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.nativeplatform.NativeBinarySpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.nativeplatform.NativeComponentSpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.nativeplatform.NativeExecutable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.nativeplatform.NativeExecutableBinary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.nativeplatform.NativeLibrary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.nativeplatform.NativeLibraryBinary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.nativeplatform.NativeLibraryBinarySpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.nativeplatform.tasks.InstallExecutable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.nativeplatform.test.googletest.GoogleTestTestSuiteBinarySpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.nativeplatform.test.tasks.RunTestExecutable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.nativeplatform.toolchain.GccCompatibleToolChain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.nativeplatform.toolchain.VisualCpp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.normalization.InputNormalizationHandler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.normalization.RuntimeClasspathNormalization.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.platform.base.LibrarySpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.platform.base.PlatformAwareComponentSpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.platform.base.VariantComponentSpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.play.JvmClasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.play.PlayApplicationBinarySpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.play.PlayApplicationSpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.play.PublicAssets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.play.platform.PlayPlatform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.play.tasks.PlayRun.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.play.tasks.RoutesCompile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugin.management.PluginManagementSpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.api.PropertiesFileContentMerger.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.api.PropertiesGeneratorTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.api.XmlFileContentMerger.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.api.XmlGeneratorTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.eclipse.GenerateEclipseJdt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.eclipse.GenerateEclipseWtpFacet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.eclipse.model.EclipseClasspath.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.eclipse.model.EclipseJdt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.eclipse.model.EclipseModel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.eclipse.model.EclipseWtpFacet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.idea.GenerateIdeaModule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.idea.GenerateIdeaWorkspace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.idea.model.IdeaModel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.idea.model.IdeaModule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.plugins.ide.idea.model.IdeaWorkspace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.testing.jacoco.plugins.JacocoPluginExtension.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.testing.jacoco.tasks.JacocoReportBase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/dsl/org.gradle.work.InputChanges.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/javadoc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/jquery/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/jquery/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/TaskExecutionRequest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/CheckableComponentSpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/ExtensiblePolymorphicDomainObjectContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/HasImplicitReceiver.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/Namer.Comparator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/NonNullApi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/PathValidation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/Plugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/Project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/Rule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/Task.Namer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/Task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/UnknownTaskException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/ComponentMetadata.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/ComponentMetadataSupplier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/Configuration.State.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/ConfigurationVariant.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/DependenciesMetadata.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/Dependency.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/DependencyResolveDetails.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/DependencySubstitutions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/DirectDependencyMetadata.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/ExcludeRule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/ExternalDependency.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/LenientConfiguration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/ModuleVersionIdentifier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/MutableVersionConstraint.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/ProjectDependency.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/PublishException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/ResolutionStrategy.SortOrder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/ResolveException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/ResolvedArtifact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/ResolvedConfiguration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/UnknownConfigurationException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/VariantMetadata.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/component/ComponentSelector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/component/LibraryBinaryIdentifier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/component/ModuleComponentIdentifier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/component/ProjectComponentSelector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/dsl/ComponentMetadataHandler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/dsl/DependencyConstraintHandler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/dsl/DependencyHandler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/dsl/RepositoryHandler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/dsl/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/ivy/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/maven/Conf2ScopeMapping.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/maven/GroovyMavenDeployer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/maven/MavenDeployer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/maven/MavenDeployment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/maven/MavenPom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/maven/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/query/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/repositories/FlatDirectoryArtifactRepository.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/repositories/MetadataSupplierAware.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/repositories/RepositoryLayout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/repositories/RepositoryResourceAccessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/repositories/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/result/ComponentArtifactsResult.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/result/ComponentResult.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/result/ComponentSelectionCause.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/result/ResolutionResult.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/result/ResolvedArtifactResult.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/result/ResolvedComponentResult.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/result/ResolvedDependencyResult.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/result/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/transform/VariantTransform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/transform/VariantTransformConfigurationException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/transform/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/type/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/artifacts/type/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/attributes/DisambiguationRuleChain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/attributes/HasConfigurableAttributes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/attributes/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/capabilities/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/capabilities/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/component/Component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/component/PublishableComponent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/component/SoftwareComponentFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/component/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/distribution/Distribution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/distribution/DistributionContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/distribution/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/distribution/plugins/DistributionPlugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/distribution/plugins/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/dsl/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/execution/TaskActionListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/execution/TaskExecutionAdapter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/file/ConfigurableFileTree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/file/DuplicatesStrategy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/file/FileVisitor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/file/RegularFile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/file/RelativePath.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/file/ReproducibleFileVisitor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/file/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/initialization/ConfigurableIncludedBuild.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/initialization/Settings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/initialization/definition/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/initialization/dsl/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/invocation/BuildInvocationDetails.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/java/archives/Manifest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/java/archives/ManifestMergeDetails.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/java/archives/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/java/archives/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/logging/Logger.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/logging/configuration/ShowStacktrace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/model/ObjectFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/model/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/ExtensionContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/ExtensionsSchema.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/ExtraPropertiesExtension.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/HelpTasksPlugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/JavaLibraryPlugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/JavaPlatformExtension.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/JavaPlatformPlugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/JavaPluginConvention.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/MavenPluginConvention.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/MavenRepositoryHandlerConvention.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/ObjectConfigurationAction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/PluginCollection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/ProjectReportsPlugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/ProjectReportsPluginConvention.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/ReportingBasePlugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/WarPlugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/WarPluginConvention.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/announce/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/antlr/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/quality/CheckstyleExtension.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/quality/CodeNarcPlugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/quality/FindBugsExtension.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/quality/JDependExtension.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/quality/JDependReports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/quality/PmdPlugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/quality/PmdReports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/quality/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/plugins/scala/ScalaBasePlugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/provider/Provider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/provider/ProviderFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/provider/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/Publication.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/PublicationArtifact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/VariantVersionMappingStrategy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/VersionMappingStrategy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/ivy/InvalidIvyPublicationException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/ivy/IvyArtifact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/ivy/IvyArtifactSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/ivy/IvyConfiguration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/ivy/IvyModuleDescriptorAuthor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/ivy/plugins/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/ivy/tasks/GenerateIvyDescriptor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/ivy/tasks/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/ivy/tasks/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/maven/MavenArtifact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/maven/MavenArtifactSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/maven/MavenDependency.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/maven/MavenPom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/maven/MavenPomDeveloperSpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/maven/MavenPomMailingList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/maven/MavenPomRelocation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/maven/MavenPomScm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/maven/plugins/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/maven/tasks/PublishToMavenRepository.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/maven/tasks/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/plugins/PublishingPlugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/plugins/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/publish/plugins/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reflect/TypeOf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reflect/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reflect/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/ConfigurableReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/DirectoryReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/Report.OutputType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/ReportContainer.ImmutableViolationException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/ReportContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/ReportingExtension.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/SingleFileReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/components/ComponentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/components/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/dependencies/DependencyReportContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/dependents/DependentComponentsReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/dependents/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/dependents/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/model/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/reporting/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/resources/MissingResourceException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/resources/TextResource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/resources/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/specs/CompositeSpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/specs/NotSpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/CacheableTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/Classpath.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/Delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/GroovyRuntime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/GroovySourceSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/InputDirectory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/InputFiles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/Optional.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/OutputDirectories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/OutputDirectory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/OutputFiles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/PathSensitive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/SourceSetContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/SourceSetOutput.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/StopExecutionException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/TaskAction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/TaskExecutionException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/TaskFilePropertyBuilder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/TaskInputPropertyBuilder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/TaskInputs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/TaskInstantiationException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/TaskPropertyBuilder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/TaskProvider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/TaskReference.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/TaskState.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/VerificationTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/WorkResult.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/WriteProperties.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/application/CreateStartScripts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/bundling/War.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/bundling/Zip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/bundling/ZipEntryCompression.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/bundling/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/compile/CompileOptions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/compile/CompilerArgumentProvider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/compile/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/compile/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/diagnostics/DependencyInsightReportTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/diagnostics/ProjectReportTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/diagnostics/PropertyReportTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/diagnostics/TaskReportTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/diagnostics/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/incremental/InputFileDetails.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/incremental/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/incremental/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/javadoc/Groovydoc.Link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/options/Option.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/options/OptionValues.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/scala/ScalaDocOptions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/scala/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/testing/TestExecutionException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/testing/TestFilter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/testing/TestFrameworkOptions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/testing/TestOutputListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/testing/TestResult.ResultType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/testing/TestResult.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/testing/junit/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/testing/logging/TestLoggingContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/testing/logging/TestStackTraceFilter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/testing/logging/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/testing/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/testing/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/util/PatternSet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/util/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/util/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/wrapper/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/api/tasks/wrapper/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/authentication/aws/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/authentication/http/DigestAuthentication.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/authentication/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/buildinit/plugins/WrapperPlugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/buildinit/plugins/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/buildinit/tasks/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/buildinit/tasks/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/caching/MapBasedBuildCacheService.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/caching/configuration/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/caching/http/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/caching/local/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/caching/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/concurrent/ParallelismConfiguration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/concurrent/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/external/javadoc/JavadocMemberLevel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/external/javadoc/JavadocOfflineLink.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/external/javadoc/JavadocOptionFileOption.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/external/javadoc/JavadocOutputLevel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/external/javadoc/MinimalJavadocOptions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/external/javadoc/OptionLessJavadocOptionFileOption.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/ide/visualstudio/ConfigFile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/ide/visualstudio/TextConfigFile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/ide/visualstudio/TextProvider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/ide/visualstudio/XmlConfigFile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/ide/visualstudio/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/ide/visualstudio/tasks/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/ide/xcode/XcodeExtension.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/ide/xcode/XcodeWorkspace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/ide/xcode/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/ide/xcode/tasks/GenerateXcodeProjectFileTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/ide/xcode/tasks/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/ivy/IvyModule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/ivy/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/JarBinarySpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/JvmBinarySpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/application/scripts/ScriptGenerator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/application/scripts/TemplateBasedScriptGenerator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/application/scripts/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/application/tasks/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/platform/JavaPlatform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/plugins/JUnitTestSuitePlugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/plugins/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/tasks/api/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/tasks/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/test/JUnitTestSuiteSpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/toolchain/JavaToolChain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/org/gradle/jvm/toolchain/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/javadoc/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/docs/release-notes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jOoaSDJUePQSbelhmmEoSPbZvl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../build.gradle" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1cdf0ac-d154-46c9-918b-7dd9991205e2" name="Default Changelist" comment="" />
+      <created>1603684561899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603684561899</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1604085385183">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1604085385183" />
+    <state x="468" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604075347404">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="468" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.738@0.0.1366.738" timestamp="1604075347403" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1604075375996">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1604075375996" />
+  </component>
+</project>
