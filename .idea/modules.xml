@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Candy.Io.iml" filepath="$PROJECT_DIR$/.idea/Candy.Io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HackOrTreat.iml" filepath="$PROJECT_DIR$/.idea/modules/HackOrTreat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HackOrTreat.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HackOrTreat.app.iml" />
     </modules>
   </component>
 </project>
