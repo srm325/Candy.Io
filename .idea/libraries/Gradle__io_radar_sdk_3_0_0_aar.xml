@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.radar:sdk:3.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ImmediAlert/caches/transforms-2/files-2.1/5651b7c37a0d25394f6f94664e90e68c/jetified-sdk-3.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../ImmediAlert/caches/transforms-2/files-2.1/5651b7c37a0d25394f6f94664e90e68c/jetified-sdk-3.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../ImmediAlert/caches/transforms-2/files-2.1/5651b7c37a0d25394f6f94664e90e68c/jetified-sdk-3.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../ImmediAlert/caches/modules-2/files-2.1/io.radar/sdk/3.0.0/167456b5d6c92081d00e604d4c43b4ac05e181a9/sdk-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ImmediAlert/caches/modules-2/files-2.1/io.radar/sdk/3.0.0/dae9576acc7fa9c54501d79154a03836934a1a0/sdk-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

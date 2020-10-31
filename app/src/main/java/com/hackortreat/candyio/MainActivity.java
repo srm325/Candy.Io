@@ -36,6 +36,9 @@ import java.util.List;
 import java.util.Locale;
 import java.util.UUID;
 
+import io.radar.sdk.model.RadarAddress;
+import io.radar.sdk.model.RadarEvent;
+import io.radar.sdk.model.RadarUser;
 import okhttp3.Call;
 import okhttp3.Callback;
 import okhttp3.MediaType;
@@ -44,9 +47,11 @@ import okhttp3.Request;
 import okhttp3.RequestBody;
 import okhttp3.Response;
 
+import io.radar.sdk.Radar;
+
 import static com.google.android.gms.location.FusedLocationProviderClient.*;
 
-public class MainActivity extends AppCompatActivity implements OnMapReadyCallback {
+public class MainActivity<RadarCallback> extends AppCompatActivity implements OnMapReadyCallback {
 
     static final int DEFAULT_INTERVAL_MODIFIER = 30;
     static final int FASTEST_INTERVAL_MODIFIER = 5;
@@ -87,9 +92,18 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         location_1 = findViewById(R.id.local_1);
         location_2 = findViewById(R.id.local_2);
         location_3 = findViewById(R.id.local_3);
-
+        String prj_live_pk_54e543cf5e684f0a312a2012361a8c25c048b830 = new String();
+        Radar.initialize(this, prj_live_pk_54e543cf5e684f0a312a2012361a8c25c048b830);
         id(this);
-
+        Radar.ipGeocode(new Radar.RadarIpGeocodeCallback() {
+            @Override
+            public void onComplete(Radar.RadarStatus status, RadarAddress address) {
+                Address location2 = null;
+                addr_2= location2;
+                location_2.setText(addr_2.getAddressLine(0));
+            }
+        });
+        
         /*
         //How to use HttpUtils
         HttpUtils example = new HttpUtils();
@@ -162,10 +176,8 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
             if (addresses.size() > 0) {
                 addr_1 = addresses.get(0);
-                addr_2 = addresses.get(1);
-                addr_3 = addresses.get(2);
+                addr_3 = addresses.get(1);
                 location_1.setText(addr_1.getAddressLine(0));
-                location_2.setText(addr_2.getAddressLine(0));
                 location_3.setText(addr_3.getAddressLine(0));
 
                 SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
