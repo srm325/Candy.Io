@@ -16,6 +16,7 @@ import android.location.Location;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -30,12 +31,18 @@ import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.tasks.OnSuccessListener;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.nio.charset.Charset;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.UUID;
@@ -79,6 +86,7 @@ public class MainActivity<RadarCallback> extends AppCompatActivity implements On
         setContentView(R.layout.activity_main);
         Button candyqualbutton = findViewById(R.id.Candy);
         Button reportbutton = findViewById(R.id.notify);
+        /*readincomedata();*/
 
         candyqualbutton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -143,6 +151,31 @@ public class MainActivity<RadarCallback> extends AppCompatActivity implements On
         updateGPS();
     }
 
+    /*private void readincomedata() {
+        InputStream is = getResources().openRawResource(R.raw.data);
+        BufferedReader reader = new BufferedReader(
+                new InputStreamReader(is, Charset.forName("UTF-8"))
+        );
+        Integer line = "";
+        try {
+            while (line = reader.readLine() !=null) {
+                //split by ","
+                String[] tokens = line.split(",");
+                //Read data
+                queriedzip sample = new queriedzip();
+                sample.setZipcode(Integer.parseInt(tokens[0]));
+                sample.setMedian(Integer.parseInt(tokens[1]));
+
+            }
+        } catch (IOException ioException) {
+            Log.wtf("MyActivity", "Error reading data file on line" + line, e);
+            e.printStackTrace();
+        }
+
+
+    }
+    private List<queriedzip> mediandata= new ArrayList<>();
+*/
     private void email() {
         Intent intent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts(
                 "mailto","report@candy.io", null));
@@ -200,6 +233,7 @@ public class MainActivity<RadarCallback> extends AppCompatActivity implements On
                 addr_2 = addresses.get(1);
                 addr_3 = addresses.get(2);
                 location_1.setText(addr_1.getAddressLine(0));
+                String zip = addr_1.getPostalCode();
                 location_2.setText(addr_2.getAddressLine(0));
                 location_3.setText(addr_3.getAddressLine(0));
 
@@ -221,7 +255,7 @@ public class MainActivity<RadarCallback> extends AppCompatActivity implements On
     public void onMapReady(GoogleMap googleMap) {
         MAP = googleMap;
         LatLng area = new LatLng(lat, lon);
-        MAP.addMarker(new MarkerOptions().position(area).title("Your recent area"));
+        MAP.addMarker(new MarkerOptions().position(area).title("Your recent area").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE)));
         MAP.moveCamera(CameraUpdateFactory.newLatLng(area));
     }
 
