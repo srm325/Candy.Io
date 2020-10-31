@@ -4,27 +4,27 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#000000"
-    tools:context=".MainActivity">
-
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+    tools:context=".MainActivity"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="0.0"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent">
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/your_image"
             android:orientation="vertical">
 
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="300dp"
+                android:layout_height="239dp"
                 tools:layout_editor_absoluteX="114dp"
                 tools:layout_editor_absoluteY="0dp">
 
                 <androidx.cardview.widget.CardView
-                    android:layout_width="350dp"
-                    android:layout_height="250dp"
+                    android:layout_width="311dp"
+                    android:layout_height="200dp"
                     android:layout_centerHorizontal="true"
                     android:layout_marginTop="25dp"
                     app:cardCornerRadius="12dp"
@@ -33,13 +33,14 @@
                     <fragment
                         android:id="@+id/map"
                         android:name="com.google.android.gms.maps.SupportMapFragment"
-                        android:layout_width="360dp"
-                        android:layout_height="match_parent"
+                        android:layout_width="333dp"
+                        android:layout_height="207dp"
                         tools:context=".Maps" />
 
                 </androidx.cardview.widget.CardView>
 
             </RelativeLayout>
+
 
             <TextView
                 android:id="@+id/locations"
@@ -47,6 +48,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="15dp"
                 android:text="Your Recent Locations:"
+                android:textColor="#FFFFFF"
                 android:textSize="20dp" />
 
             <TextView
@@ -56,7 +58,8 @@
                 android:layout_marginLeft="25dp"
                 android:paddingTop="20dp"
                 android:text="Location 1"
-                android:textColor="#FF9800"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                android:textColor="#FFFFFF"
                 android:textSize="16dp" />
 
             <TextView
@@ -66,7 +69,8 @@
                 android:layout_marginLeft="25dp"
                 android:paddingTop="20dp"
                 android:text="Location 2"
-                android:textColor="#FF9800"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#FFFFFF"
                 android:textSize="16dp" />
 
             <TextView
@@ -76,7 +80,8 @@
                 android:layout_marginLeft="25dp"
                 android:paddingTop="20dp"
                 android:text="Location 3"
-                android:textColor="#FF9800"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textColor="#FFFFFF"
                 android:textSize="16dp" />
 
             <RelativeLayout
@@ -84,7 +89,7 @@
                 android:layout_height="wrap_content">
 
                 <Button
-                    android:id="@+id/questions"
+                    android:id="@+id/Candy"
                     android:layout_width="wrap_content"
                     android:layout_height="75dp"
                     android:layout_alignParentLeft="true"
@@ -107,5 +112,4 @@
 
             </RelativeLayout>
         </LinearLayout>
-    </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

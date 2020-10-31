@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 
 import android.content.Context;
+import android.content.Intent;
 import android.content.SharedPreferences;
 
 import android.Manifest;
@@ -12,8 +13,11 @@ import android.content.pm.PackageManager;
 import android.location.Address;
 import android.location.Geocoder;
 import android.location.Location;
+import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -69,12 +73,27 @@ public class MainActivity<RadarCallback> extends AppCompatActivity implements On
     private Address addr_1, addr_2, addr_3;
     private double lat, lon;
 
-    @Override
     protected void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        Button candyqualbutton = findViewById(R.id.Candy);
+        Button reportbutton = findViewById(R.id.notify);
 
+        candyqualbutton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openCandy();
+            };
+
+        });
+        reportbutton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                email();
+            };
+
+        });
         locationRequest = new LocationRequest();
         locationRequest.setInterval(1000 * DEFAULT_INTERVAL_MODIFIER);
         locationRequest.setFastestInterval(1000 * FASTEST_INTERVAL_MODIFIER);
@@ -95,15 +114,8 @@ public class MainActivity<RadarCallback> extends AppCompatActivity implements On
         String prj_live_pk_54e543cf5e684f0a312a2012361a8c25c048b830 = new String();
         Radar.initialize(this, prj_live_pk_54e543cf5e684f0a312a2012361a8c25c048b830);
         id(this);
-        Radar.ipGeocode(new Radar.RadarIpGeocodeCallback() {
-            @Override
-            public void onComplete(Radar.RadarStatus status, RadarAddress address) {
-                Address location2 = null;
-                addr_2= location2;
-                location_2.setText(addr_2.getAddressLine(0));
-            }
-        });
-        
+
+
         /*
         //How to use HttpUtils
         HttpUtils example = new HttpUtils();
@@ -129,6 +141,15 @@ public class MainActivity<RadarCallback> extends AppCompatActivity implements On
 
 
         updateGPS();
+    }
+
+    private void email() {
+        Intent intent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts(
+                "mailto","report@candy.io", null));
+        intent.putExtra(Intent.EXTRA_SUBJECT, "Candy.io Error");
+        intent.putExtra(Intent.EXTRA_TEXT, "Please explain your error");
+        startActivity(Intent.createChooser(intent, "Choose an Email client :"));
+
     }
 
 
@@ -176,8 +197,10 @@ public class MainActivity<RadarCallback> extends AppCompatActivity implements On
 
             if (addresses.size() > 0) {
                 addr_1 = addresses.get(0);
-                addr_3 = addresses.get(1);
+                addr_2 = addresses.get(1);
+                addr_3 = addresses.get(2);
                 location_1.setText(addr_1.getAddressLine(0));
+                location_2.setText(addr_2.getAddressLine(0));
                 location_3.setText(addr_3.getAddressLine(0));
 
                 SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
@@ -190,7 +213,10 @@ public class MainActivity<RadarCallback> extends AppCompatActivity implements On
         }
 
     }
-
+    private void openCandy() {
+        Intent intent = new Intent(this, CandyQual.class);
+        startActivity(intent);
+    }
     @Override
     public void onMapReady(GoogleMap googleMap) {
         MAP = googleMap;
